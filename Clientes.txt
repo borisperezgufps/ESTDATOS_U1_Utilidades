@@ -1,0 +1,5 @@
+Carlos|Ramirez|25000
+Pedro|Romero|35000
+Laura|Garcia|30000
+Rafael|Aguirre|32000
+Marcera|Sepulveda|27000
